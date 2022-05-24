@@ -1,0 +1,22 @@
+{
+  "name": "github.io",
+  "description": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "hexo-cli": "^4.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chizizhixin/github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chizizhixin/github.io/issues"
+  },
+  "homepage": "https://github.com/chizizhixin/github.io#readme"
+}
